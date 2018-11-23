@@ -97,12 +97,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sg.deliveroo.news/news/fantasticfeastandwheretofindthem.html</loc>
-    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://sg.deliveroo.news/news/fastest-deal.html</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,30 +176,6 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/goldcards.html</loc>
-    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sg.deliveroo.news/tag/fantasticfeast.html</loc>
-    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sg.deliveroo.news/tag/harryporter.html</loc>
-    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sg.deliveroo.news/tag/map.html</loc>
-    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sg.deliveroo.news/tag/foodrecommendations.html</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
