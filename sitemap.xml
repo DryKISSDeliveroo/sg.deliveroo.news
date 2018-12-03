@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/christmas.html</loc>
+    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/news/crazy-rich-foods.html</loc>
     <lastmod>2018-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -176,6 +182,12 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/frenchtoast.html</loc>
+    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/christmas.html</loc>
     <lastmod>2018-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
