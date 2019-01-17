@@ -139,6 +139,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/zodiacs.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/news/singlesday.html</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,12 +205,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sg.deliveroo.news/tag/friedchicken.html</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://sg.deliveroo.news/tag/foodtrends.html</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,6 +218,12 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/zodiacs.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/friedchicken.html</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -416,6 +422,12 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/healthy.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/archive/2019.html</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
