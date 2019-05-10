@@ -49,7 +49,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sg.deliveroo.news/news/firstaidtraining.html</loc>
+    <loc>https://sg.deliveroo.news/news/deliverooimpossible.html</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -284,6 +284,12 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/about/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/deliveroo-impossible-foods.html</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
