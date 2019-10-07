@@ -127,7 +127,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sg.deliveroo.news/news/deliveroofoodmarket.html</loc>
+    <loc>https://sg.deliveroo.news/news/.html</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -391,12 +391,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sg.deliveroo.news/tag/deliveroo-food-market.html</loc>
-    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://sg.deliveroo.news/tag/deliveroo-for-business.html</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -524,6 +518,12 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/chocolate.html</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/deliveroo-food-market.html</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
