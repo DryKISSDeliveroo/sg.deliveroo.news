@@ -235,6 +235,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/deliveroo100-2019.html</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/news/coffeetrends.html</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -422,6 +428,18 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/about/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/deliveroo-100.html</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/food-trends.html</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
