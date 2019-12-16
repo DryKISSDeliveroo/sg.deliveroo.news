@@ -343,7 +343,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/woobbee-bubble-teas.html</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/news/deliveroofoodiepreneur.html</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/news/deliveroowalker.html</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -428,6 +440,24 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/about/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/deliveroo-walker-programme.html</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/festive-bubble-teas.html</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/woobbee.html</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -908,6 +938,12 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/archive/2019/page/4.html</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/archive/2019/page/5.html</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
