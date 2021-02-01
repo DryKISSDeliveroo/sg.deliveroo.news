@@ -589,6 +589,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/valentine-s-day-couple-masks.html</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/news/deliveroo-ffth.html</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -746,6 +752,12 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/about/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/valentine-s-day-couple-masks.html</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1825,6 +1837,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/page/13.html</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1886,6 +1904,12 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/deliveroo/page/12.html</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/deliveroo/page/13.html</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
