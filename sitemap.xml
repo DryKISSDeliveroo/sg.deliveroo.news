@@ -535,6 +535,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/deliveroo-restaurant-awards-2021-winners.html</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/news/birthday.html</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -998,6 +1004,18 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/restaurant-awards-2021.html</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/winners.html</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2372,6 +2390,12 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/healthy.html</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/archive/2022.html</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
