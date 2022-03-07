@@ -715,6 +715,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/deliveroo-the-very-hungry-caterpillar.html</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/news/wfh-foodspiration.html</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1034,6 +1040,18 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/the-very-hungry-caterpillar.html</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/marks-spencer.html</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
