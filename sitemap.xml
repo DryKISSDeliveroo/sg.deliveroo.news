@@ -781,6 +781,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/deliveroo-valentine-s-day-pizza.html</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/news/deliveroo-burger-king-national-day-exclusive-tee.html</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -925,7 +931,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sg.deliveroo.news/news/deliveroo-valentine-s-day-pizza.html</loc>
+    <loc>https://sg.deliveroo.news/news/deliveroo-an-acai-affair-ritual-gym.html</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1028,6 +1034,24 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/an-acai-affair.html</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/ritual-gym.html</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/healthy-bundle.html</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
