@@ -937,6 +937,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/worldchocolateday.html</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/news/topchinesedishes.html</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1088,6 +1094,12 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/about/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/world-chocolate-day.html</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2324,12 +2336,6 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/world-friendship-day.html</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sg.deliveroo.news/tag/world-chocolate-day.html</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
