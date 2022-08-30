@@ -661,6 +661,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sg.deliveroo.news/news/deliverooworldsuicideday.html</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sg.deliveroo.news/news/deliveroo-support-initiatives-covid19-customertipping.html</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1136,6 +1142,24 @@
   </url>
   <url>
     <loc>https://sg.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/sos.html</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/samaritans-of-singapore.html</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sg.deliveroo.news/tag/world-suicide-day.html</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
